@@ -4,7 +4,7 @@ Hi! This is team project developed using **MERN STACK**
 
 # Prerequisite
 
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** .
+1.  Must have these technologies intalled on your system to run the files **Node**, **React**, **Express**, **MongoDB**.
 
 # Install Dependencies
 
